@@ -10,27 +10,35 @@ T=int(input().strip())
 def optimize(matrix,dimension): 
     global sol
     global final
+    finaloutlist=[[] for i in range(dimension)]
     final=""
     sol=""
     for i in range(dimension): 
-        a, b= matrix[i][0],matrix[i][1]
+        a, b, c= matrix[i][0],matrix[i][1],matrix[i][2]
         if i==0: 
             Cbest=range(a,b)
             setCbest=set(Cbest)
             setVbest=set()
-            sol=sol+"C"
+            finaloutlist[c].append("C")
+            #sol=sol+"C"
         else: 
             temp1=set(range(a, b))
             temp=range(a, b)
             if len(set.intersection(temp1,setCbest))== 0: 
-                sol=sol+"C"
+                #sol=sol+"C"
                 setCbest.update(temp)
+                finaloutlist[c].append("C")
             else: 
                 if len(set.intersection(temp1,setVbest))==0:                  
-                    sol=sol+"J"
+                    #sol=sol+"J"
+                    finaloutlist[c].append("J")
                     setVbest.update(temp)
                 else: 
                     return False
+
+    for element in finaloutlist: 
+        for i in element:
+            sol+=str(i)
     final=sol
 
 def out(casenum,matrix,dimension): 
@@ -51,4 +59,6 @@ for i in range(T):
         end=int(end)
         matrix[i].append(beg)
         matrix[i].append(end)
+        matrix[i].append(i)
+    matrix=sorted(matrix, key=lambda x: x[0])
     out(casenum,matrix,dimension)
