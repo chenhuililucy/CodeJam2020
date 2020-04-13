@@ -8,6 +8,6 @@ and I was unsure about my intuition for question 5 so I didn't implement it. I t
 
 Round 1A 
 
-I only got 2 testcases correct for the first subquestion. I did not get the time to attempt the others at all! :( 
+I only got 2 testcases correct for the first question. I did not get the time to attempt the others at all! :( 
 
 
