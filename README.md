@@ -14,7 +14,7 @@ First question and second question are trivial. Third is a classic nonweighted i
 
 Round 1A 
 
-Solved 2 test cases for the first question: it is, surprisingly, not v algorithmic! 
+First question: String manipulation (?)
 
 Second question: BFS on Pascal triangle
 
