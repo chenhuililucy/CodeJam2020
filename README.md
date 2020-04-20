@@ -23,7 +23,7 @@ Third question: iterative, linked-list like matrix operations
 
 Round 1B
 
-First question: BFS with optimization, some modular arithmetics
+First question: BFS with optimization, some number theory 
 
 Second question: have not attempted 
 
