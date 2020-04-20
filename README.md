@@ -16,7 +16,7 @@ Solved 2 test cases for the first question: it is, surprisingly, not v algorithm
 
 Second question: BFS on Pascal triangle
 
-Third question: iterative, linked-list structure matrix operations 
+Third question: iterative, linked-list like matrix operations 
 
 
 Round 1B
