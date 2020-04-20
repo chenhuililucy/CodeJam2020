@@ -11,13 +11,17 @@ First question and second question are trivial. Third is a classic nonweighted i
 Round 1A 
 
 Solved 2 test cases for the first question: it is, surprisingly, not v algorithmic! 
+
 Second question: BFS on Pascal triangle
+
 Third question: iterative, linked-list structure matrix operations 
 
 
 Round 1B
 
 First question: BFS, some modular arithmetics
+
 Second question: have not attempted 
+
 Third question: seems to be BFS? 
 
