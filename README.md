@@ -6,6 +6,8 @@ This is my first time with Google Code Jam 2020.
 
 I hope that the experience strengthens my knowledge in DSA. 
 
+Here are some description on what each problem required. 
+
 Qualification Round
 
 First question and second question are trivial. Third is a classic nonweighted interval scheduling problem (greedy). Fourth is bit manipulation. Fifth is a combination of bipartite matching, recursive backtracking and hall's theorem. 
