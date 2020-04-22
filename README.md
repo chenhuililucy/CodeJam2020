@@ -23,7 +23,7 @@ Third question: iterative, linked-list like matrix operations
 
 Round 1B
 
-First question: BFS with optimization, some number theory 
+First question: Mid test case can be solved with BFS, largest test case needs some olympiad maths intuition (I thank senpai for helping me figure out the right way) 
 
 Second question: have not attempted 
 
