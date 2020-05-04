@@ -18,7 +18,7 @@ First question: String manipulation (?)
 
 Second question: BFS on Pascal triangle
 
-Third question: iterative, linked-list like matrix operations 
+Third question: turning a matrix into linked lists
 
 
 # Round 1B
