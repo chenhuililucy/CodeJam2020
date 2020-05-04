@@ -2,7 +2,7 @@
 
 # My Google CodeJam2020 Python solutions 
 
-This is my first time with Google Code Jam 2020.  
+I am a newbie. This is my first time with Google Code Jam 2020.  
 
 I hope that the experience strengthens my knowledge in DSA. 
 
