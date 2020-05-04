@@ -6,7 +6,7 @@ This is my first time with Google Code Jam 2020.
 
 I hope that the experience strengthens my knowledge in DSA. 
 
-Here are some description on what each problem required. 
+Here are some description on what (I think) each problem required . 
 
 # Qualification Round
 
