@@ -10,7 +10,7 @@ Here are some description on what each problem required.
 
 # Qualification Round
 
-First question and second question are trivial. Third is a classic nonweighted interval scheduling problem (greedy). Fourth is bit manipulation. Fifth is a combination of bipartite matching, recursive backtracking and hall's theorem. 
+First question and second question are trivial. Third is a nonweighted interval scheduling problem you see in DSA textbooks (greedy). Fourth is bit manipulation. Fifth is a combination of bipartite matching, recursive backtracking and hall's theorem. 
 
 # Round 1A 
 
