@@ -10,7 +10,13 @@ Here are some description on what (I think) each problem required .
 
 # Qualification Round
 
-First question and second question are trivial. Third is a nonweighted interval scheduling problem you see in DSA textbooks (greedy). Fourth is bit manipulation. Fifth can be solved with bipartite matching, recursive backtracking and hall's theorem. 
+First question and second question are trivial.
+
+Third is a nonweighted interval scheduling problem you see in DSA textbooks (greedy).
+
+Fourth is bit manipulation, interactive. 
+
+Fifth can be solved with bipartite matching, recursive backtracking and hall's theorem. 
 
 # Round 1A 
 
@@ -25,7 +31,7 @@ Third question: turning a matrix into linked lists
 
 First question: Mid test case can be solved with BFS, largest test case needs some olympiad maths intuition (I thank senpai for helping me figure out the right way) 
 
-Second question: have not attempted 
+Second question: Geometry question, binary search, interactive
 
 Third question: seems to be BFS? 
 
