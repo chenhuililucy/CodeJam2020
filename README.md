@@ -27,7 +27,7 @@ Second question: BFS on Pascal triangle
 Third question: turning a matrix into linked lists
 
 
-# Round 1B (why so much olympiad maths) 
+# Round 1B (why so much olympiad maths me no understand)
 
 First question: Mid test case can be solved with BFS, largest test case needs some olympiad maths intuition (I thank senpai for helping me figure out the right way) 
 
